@@ -7,19 +7,29 @@ This is a collection of links and resources I think will be helpful for people l
 
 These sites include test cases and application to automate
 
-- 
-- https://practice.expandtesting.com/about
+- [automationexercise](https://automationexercise.com/)
+- [expandtesting](https://practice.expandtesting.com/about)
 
 ## Demo sites
 
 These sites are a demo of an application, they are provided to promote the application, so be respectful in you usage of them, they are good for practicing creating automation scripts but not suitable for high usage and any data you create will likely get wiped periodically.
 
-- tryton
-- opencart
-- orangehrm
+For these you will need to write your own test cases
+
+- [tryton](https://www.tryton.org/demo)
+- [opencart](https://www.opencart.com/index.php?route=cms/demo)
+- [orangehrm](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
 # Apps you can generate load on:
 
 - jpetstore
-- tricentic example
+  - [octoperf](https://petstore.octoperf.com/actions/Catalog.action)
+  - [aspectran](https://jpetstore.aspectran.com/)
+  - [Info for self hosting jpetstore](https://mybatis.org/jpetstore-6/)
+  - [wilsonmar's info on jpetstore](https://wilsonmar.github.io/jpetstore/)
+  - [jpetstore source](https://github.com/mybatis/jpetstore-6)
+- [tricentic example vehichle insurance app](http://sampleapp.tricentis.com/)
+- [multi factor auth example](https://seleniumbase.io/realworld/login)
+- [restful-booker](https://restful-booker.herokuapp.com/) ([github](https://github.com/mwinteringham/restful-booker))
+- [ToDo App](https://todomvc.com/) ([github](https://github.com/tastejs/todomvc))
 
