@@ -27,6 +27,8 @@ For these you will need to write your own test cases
 - [tryton](https://www.tryton.org/demo)
 - [opencart](https://www.opencart.com/index.php?route=cms/demo)
 - [orangehrm](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+- [open-emr](https://www.open-emr.org/demo/)
+- [openmrs](https://openmrs.org/demo/)
 
 ## Apps you can generate load on:
 
