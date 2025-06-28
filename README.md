@@ -20,7 +20,7 @@ For these you will need to write your own test cases
 - [opencart](https://www.opencart.com/index.php?route=cms/demo)
 - [orangehrm](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
-# Apps you can generate load on:
+## Apps you can generate load on:
 
 - jpetstore
   - [octoperf](https://petstore.octoperf.com/actions/Catalog.action)
