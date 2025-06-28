@@ -33,3 +33,8 @@ For these you will need to write your own test cases
 - [restful-booker](https://restful-booker.herokuapp.com/) ([github](https://github.com/mwinteringham/restful-booker))
 - [ToDo App](https://todomvc.com/) ([github](https://github.com/tastejs/todomvc))
 
+## Helpfull videos
+
+- [This video explains the Software Development Life Cycle aka Application Development Life Cycle](https://youtu.be/Fi3_BjVzpqk?si=VIOV3P8JXPkwkGop)
+- [This video gives you some idea about the various types of testing (there's a lot more, these are the common ones)](https://youtu.be/cuNE3tZ5Wu4?si=Q45-rVR_pH1c1LHT)
+- 
