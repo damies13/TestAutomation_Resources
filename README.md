@@ -3,14 +3,22 @@
 This is a collection of links and resources I think will be helpful for people learning Test Automation
 
 
-## Practice sites 
+## Practice sites with test cases
 
-These sites include test cases and application to automate
+These sites include test cases and applications to automate
 
 - [automationexercise](https://automationexercise.com/)
 - [expandtesting](https://practice.expandtesting.com/about)
 
-## Demo sites
+
+## Practice sites without test cases
+
+- [multi factor auth example](https://seleniumbase.io/realworld/login)
+- [restful-booker](https://restful-booker.herokuapp.com/) ([github](https://github.com/mwinteringham/restful-booker))
+- [ToDo App](https://todomvc.com/) ([github](https://github.com/tastejs/todomvc))
+
+
+## Application Demo sites
 
 These sites are a demo of an application, they are provided to promote the application, so be respectful in you usage of them, they are good for practicing creating automation scripts but not suitable for high usage and any data you create will likely get wiped periodically.
 
@@ -29,9 +37,6 @@ For these you will need to write your own test cases
   - [wilsonmar's info on jpetstore](https://wilsonmar.github.io/jpetstore/)
   - [jpetstore source](https://github.com/mybatis/jpetstore-6)
 - [tricentic example vehichle insurance app](http://sampleapp.tricentis.com/)
-- [multi factor auth example](https://seleniumbase.io/realworld/login)
-- [restful-booker](https://restful-booker.herokuapp.com/) ([github](https://github.com/mwinteringham/restful-booker))
-- [ToDo App](https://todomvc.com/) ([github](https://github.com/tastejs/todomvc))
 
 ## Helpfull videos
 
