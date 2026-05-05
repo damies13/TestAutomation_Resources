@@ -17,6 +17,7 @@ These sites include test cases and applications to automate
 - [multi factor auth example](https://seleniumbase.io/realworld/login)
 - [restful-booker](https://restful-booker.herokuapp.com/) ([github](https://github.com/mwinteringham/restful-booker))
 - [ToDo App](https://todomvc.com/) ([github](https://github.com/tastejs/todomvc))
+- [Cerios Clinic](https://github.com/CeriosTesting/cerios-clinic) [LinkedIn Accouncement](https://www.linkedin.com/pulse/meet-test-automation-environment-you-actually-need-ronald-veth-3mrge/)
 
 
 ## Application Demo sites
