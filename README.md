@@ -40,7 +40,8 @@ For these you will need to write your own test cases
   - [Info for self hosting jpetstore](https://mybatis.org/jpetstore-6/)
   - [wilsonmar's info on jpetstore](https://wilsonmar.github.io/jpetstore/)
   - [jpetstore source](https://github.com/mybatis/jpetstore-6)
-- [tricentic example vehichle insurance app](http://sampleapp.tricentis.com/)
+- [tricentis example vehichle insurance app](http://sampleapp.tricentis.com/)
+- [blazedemo example airline booking app](https://blazedemo.com/)
 
 ## Helpfull videos
 
