@@ -10,6 +10,7 @@ These sites include test cases and applications to automate
 - [automationexercise](https://automationexercise.com/)
 - [expandtesting](https://practice.expandtesting.com/about)
 - [practicesoftwaretesting](https://practicesoftwaretesting.com/)
+- [GoodDeal](https://delta-qa.com/playground/) ([example tests](https://github.com/TheMalloum/gooddeal-practice-tests))
 
 
 ## Practice sites without test cases
